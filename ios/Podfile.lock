@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Pendo (2.16.0.5665)
+  - pendo_sdk (2.16.0):
+    - Flutter
+    - Pendo (~> 2.16.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pendo_sdk (from `.symlinks/plugins/pendo_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Pendo
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pendo_sdk:
+    :path: ".symlinks/plugins/pendo_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Pendo: 6eee9ce8cfffd06a14e47cb353037c6c3dc84b00
+  pendo_sdk: 6ef1e20f2f3a91c9859acfd4beb344d36d2b7ab8
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
