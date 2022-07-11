@@ -1,4 +1,4 @@
-# POC - Push Notifications in Flutter
+# POC - Pendo in Flutter
 
 A Proof of Concept (POC) that was created to check how Pendo in-app surveys and onboarding tour works in Flutter.
 
